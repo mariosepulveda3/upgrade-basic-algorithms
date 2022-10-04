@@ -11,16 +11,16 @@ console.log(div);
 
 /*1.3 Muestra mediante un alert el resto de dividir 15 por 9.*/
 
-let rest = 15 - 9;
+let rest = 15 % 9;
 console.log(rest);
 
 /*1.4 Usa el correcto operador de asignación que resultará en x = 15, 
 teniendo dos variables y = 10 y z = 5.*/
 
-let y = 10;
-let z = 5;
-let x = y + z;
-console.log(x);
+let a = 10;
+let b = 5;
+let c = a + b;
+console.log(c);
 
 /*1.5 Usa el correcto operador de asignación que resultará en x = 50,
 teniendo dos variables y = 10 y z = 5.*/
